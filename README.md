@@ -1,6 +1,6 @@
 # Dice Simulation
 
-###Nota
+### Nota
 
 - This is example basic:
 - You need installed python 3
